@@ -40,3 +40,4 @@ npx cypress open
 ```bash
 npx cypress run
 ```
+Atualização para rodar o workflow novamente
