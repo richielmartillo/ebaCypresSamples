@@ -1,1 +1,11 @@
-node_modules
+node_modules/
+jspm_packages/
+allure-report/
+allure-results/
+videos/
+
+.srverless/
+.fusebox/
+.dynamodb/
+web_modules/
+.firebase/ 
